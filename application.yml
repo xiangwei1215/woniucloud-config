@@ -4,11 +4,11 @@ spring:
    name: woniucloud-provider-dev  
 
 spring: 
-   profiles: dev
+   profiles: test
    application: 
    name: woniucloud-provider-test
  
 spring: 
-   profiles: dev
+   profiles: pre
    application: 
    name: woniucloud-provider-pre
